@@ -3,7 +3,7 @@
 **Sinh viên:** Vũ Đình Ngọc Minh  
 **Mã sinh viên:** B23DCCN569 
 
-**Sinh viên:** Nguyễn Vũ Song Hà 
+**Sinh viên:** Nguyễn Vũ Song Hà  
 **Mã sinh viên:** B23DCCN265
 
 Repo này gồm ba bài thực hành MQTT: gửi và nhận thông điệp, mô phỏng cảm biến nhiệt độ và độ ẩm, và điều khiển đèn thông minh. Mỗi bài có hai chương trình Python giao tiếp qua một MQTT broker.
